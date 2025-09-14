@@ -1,6 +1,6 @@
-# 101 Guide to [Language]
+# 101 Guide to Javascript
 
-A practical collection of **101 tips and examples** to level up your [Language] skills, from beginner basics to advanced mastery. Each tip is a small, focused example you can read, run, and learn from.
+A practical collection of **101 tips and examples** to level up your Javascript skills, from beginner basics to advanced mastery. Each tip is a small, focused example you can read, run, and learn from.
 
 ## Structure
 
@@ -29,3 +29,6 @@ Each folder contains `.js` files (or the relevant language files) with a **tip n
 ```bash
 # Example for JavaScript:
 node tips/02-fundamentals/tip-11-falsy-vs-truthy-values.js
+```
+
+Made with ❤️ by CodeByBryant
