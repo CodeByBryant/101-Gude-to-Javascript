@@ -10,7 +10,7 @@
 
 "use strict";
 
-const name = "Bryant";
+const name = "John";
 const age = 25;
 
 // Clean string interpolation with template literals
